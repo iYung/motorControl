@@ -16,6 +16,7 @@ Name=stepperControl.py
 Type=Script Application
 
 [Launch][Launch Configuration 0][Data]
+Configured from ProjectItem=motorControl,stepperControl.py
 Executable=file:///home/ivank/projects/motorControl/stepperControl.py
 Interpreter=python
 Output Filtering Mode=2
